@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/jdbc/pkgfinal/project/Staff.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>29</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>69</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>148</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/jdbc/pkgfinal/project/SignUpScreen.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/StudentTabs/StudentTabsScreen.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/StudentTabs/StudentDegreeTab.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/Database/UserDataBase.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/Database/DegreeDataBase.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/Domain/Degree.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/StudentTabs/StudentAddTab.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/jdbc/pkgfinal/project/Staff.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/StudentTabs/StudentShowTab.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/Database/StudentDataBase.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/StudentTabs/StudentUpdateTab.java</file>
+            <file>file:/D:/NetBeansProjects/JDBC%20Final%20Project/src/StudentTabs/DegreeUpdateTab.java</file>
+        </group>
+    </open-files>
+</project-private>
